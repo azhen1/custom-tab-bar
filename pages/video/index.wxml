@@ -1,0 +1,6 @@
+<view class="container">
+  <view class="userinfo">
+    视频页
+  </view>
+  <!-- <mp-tabbar current="current"/> -->
+</view>

@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    首页
+  </view>
+  <!-- <mp-tabbar :current="current"/> -->
+</view>
